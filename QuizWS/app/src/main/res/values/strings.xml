@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Will Spencer\'s Quiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">You are so amazing!1!!11!</string>
+    <string name="incorrect_toast">Absolute Trash</string>
+    <string name="hint_toast">You lost half a point</string>
+
+    <string name="next_button">Next</string>
+    <string name="prev_button">Previous</string>
+
+    <string name="q1">The Tagalong is Will Spencer\'s favorite Girl Scout Cookie.</string>
+    <string name="q2">The Syslab is Will Spencer\'s Senior Lab.</string>
+    <string name="q3">40 bees loved Will Spencer so much they all stung him at once</string>
+    <string name="q4">5 + 5 is actually 17</string>
+    <string name="q5">Will Spencer Values Mihir Patel\'s Friendship</string>
+    <string name="q6">Will Spencer has 6 stickers on his laptop</string>
+    <string name="q7">The Office is Will Spencer\'s favorite TV Show</string>
+    <string name="q8">Will Spencer is a god at BC Calculus</string>
+    <string name="q9">Harry Potter is Will Spencer\'s favorite book series</string>
+    <string name="q10">Will Spencer uses too many emojis on Facebook</string>
+
+    <string name="warning_text">Are you sure? You will lose half a point</string>
+    <string name="show_answer_button">Show Hint</string>
+    <string name="hint_button">Hint</string>
+    <string name="score_text">Score: 0/10</string>
+    <string name = "highScore_text">Highscore: 0/10</string>
+    <string name = "sharedScore_text">Highscore: 0/10</string>
+</resources>
